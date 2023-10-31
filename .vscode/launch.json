@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "increment",
+            "request": "launch",
+            "mainClass": "increment",
+            "projectName": "firstjava_19221fce"
+        },
+        {
+            "type": "java",
+            "name": "mathoperator",
+            "request": "launch",
+            "mainClass": "mathoperator",
+            "projectName": "firstjava_19221fce"
+        },
+        {
+            "type": "java",
             "name": "calculator",
             "request": "launch",
             "mainClass": "calculator",
