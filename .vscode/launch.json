@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "kiraan10",
+            "request": "launch",
+            "mainClass": "kiraan10",
+            "projectName": "firstjava_19221fce"
+        },
+        {
+            "type": "java",
             "name": "suis",
             "request": "launch",
             "mainClass": "suis",
