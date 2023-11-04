@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "suis",
+            "request": "launch",
+            "mainClass": "suis",
+            "projectName": "firstjava_19221fce"
+        },
+        {
+            "type": "java",
+            "name": "logicaloperator",
+            "request": "launch",
+            "mainClass": "logicaloperator",
+            "projectName": "firstjava_19221fce"
+        },
+        {
+            "type": "java",
+            "name": "ifstatement",
+            "request": "launch",
+            "mainClass": "ifstatement",
+            "projectName": "firstjava_19221fce"
+        },
+        {
+            "type": "java",
             "name": "increment",
             "request": "launch",
             "mainClass": "increment",
