@@ -3,7 +3,7 @@ public class kiraan10 {
         int counter = 10;
         while(counter < 10){
             System.out.println(counter);
-            counter++;
+            ++counter;
         }
     }
 }
