@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "milo",
+            "request": "launch",
+            "mainClass": "milo",
+            "projectName": "firstjava_19221fce"
+        },
+        {
+            "type": "java",
             "name": "jus",
             "request": "launch",
             "mainClass": "jus",
