@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "tuna",
+            "request": "launch",
+            "mainClass": "tuna",
+            "projectName": "firstjava_19221fce"
+        },
+        {
+            "type": "java",
             "name": "milo",
             "request": "launch",
             "mainClass": "milo",
