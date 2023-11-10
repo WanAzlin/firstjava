@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "spaghetti",
+            "request": "launch",
+            "mainClass": "spaghetti",
+            "projectName": "firstjava_19221fce"
+        },
+        {
+            "type": "java",
             "name": "soya",
             "request": "launch",
             "mainClass": "soya",
