@@ -8,7 +8,7 @@ public class ikan {
     }
 
     public void saying(){
-        System.err.printf("your first gf was %s ", getName());
+        System.out.printf("your first gf was %s ", getName());
     }
 
 }

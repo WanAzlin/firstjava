@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "anggur",
+            "request": "launch",
+            "mainClass": "anggur",
+            "projectName": "firstjava_19221fce"
+        },
+        {
+            "type": "java",
             "name": "spaghetti",
             "request": "launch",
             "mainClass": "spaghetti",

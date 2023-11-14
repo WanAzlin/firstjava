@@ -13,7 +13,6 @@ public class soya {
     private void saying() {
     }
 
-  
    
 }
 //constructor gives a values when it allows to do
