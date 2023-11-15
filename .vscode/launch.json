@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "program",
+            "request": "launch",
+            "mainClass": "program",
+            "projectName": "firstjava_19221fce"
+        },
+        {
+            "type": "java",
             "name": "apples",
             "request": "launch",
             "mainClass": "apples",
