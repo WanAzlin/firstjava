@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ilmuhisab",
+            "request": "launch",
+            "mainClass": "ilmuhisab",
+            "projectName": "firstjava_19221fce"
+        },
+        {
+            "type": "java",
             "name": "program",
             "request": "launch",
             "mainClass": "program",
