@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "orange",
+            "request": "launch",
+            "mainClass": "orange",
+            "projectName": "firstjava_19221fce"
+        },
+        {
+            "type": "java",
             "name": "array_table",
             "request": "launch",
             "mainClass": "array_table",
