@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "lapar",
+            "request": "launch",
+            "mainClass": "lapar",
+            "projectName": "firstjava_19221fce"
+        },
+        {
+            "type": "java",
             "name": "orange",
             "request": "launch",
             "mainClass": "orange",
