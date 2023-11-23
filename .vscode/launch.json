@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "haruan",
+            "request": "launch",
+            "mainClass": "haruan",
+            "projectName": "firstjava_19221fce"
+        },
+        {
+            "type": "java",
             "name": "lapar",
             "request": "launch",
             "mainClass": "lapar",
