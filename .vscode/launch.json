@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "mariah",
+            "request": "launch",
+            "mainClass": "mariah",
+            "projectName": "firstjava_19221fce"
+        },
+        {
+            "type": "java",
             "name": "kiki",
             "request": "launch",
             "mainClass": "kiki",
