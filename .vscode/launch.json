@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "starfruit",
+            "request": "launch",
+            "mainClass": "starfruit",
+            "projectName": "firstjava_19221fce"
+        },
+        {
+            "type": "java",
             "name": "mariah",
             "request": "launch",
             "mainClass": "mariah",
